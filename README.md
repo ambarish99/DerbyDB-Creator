@@ -18,5 +18,5 @@ DerbyDB Creator as a Graphical User Interface to access databases of apache derb
 
 * Last but a very big feature of this application is - It has an option of RAD (Rapid Application Development) settings and a button 'Create Data Layer'. This option allows us to  create the code of  "Data Layer" automatically. 
 
-# To learn how to use it please refer this link: 
+# To learn how to use this application it please refer this link: 
 [DerbyDB Creator](https://ambarishwithtech.blogspot.com/2020/07/project-1-derbydb-creator-sql-scripting.html)
