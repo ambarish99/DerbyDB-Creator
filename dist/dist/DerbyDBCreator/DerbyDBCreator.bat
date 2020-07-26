@@ -1,0 +1,1 @@
+java -classpath derbyclient.jar;. myUIofSQL
